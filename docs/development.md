@@ -12,11 +12,11 @@
 
 ## Phase 0: Project Setup & Foundation (Estimated Duration: 1 Week)
 
-### Step 0.1: Version Control Setup
+### Step 0.1: Version Control Setup (DONE)
 *   Create Git repo, establish branching strategy.
     *   *(AI Note: Provide instructions/reminders).*
 
-### Step 0.2: Expo Project Initialization
+### Step 0.2: Expo Project Initialization  (DONE)
 *   `npx create-expo-app@latest gradus-app --template blank-ts`
 *   `cd gradus-app`
 *   `npx expo install expo-router ...`
